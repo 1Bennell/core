@@ -7,13 +7,13 @@
     "bn.js": "^4.11.8",
     "buffer": "^5.0.7",
     "crypto": "^1.0.1",
-    "elliptic": "^6.4.0",
+    "elliptic": "^6.5.1",
     "hashjs": "^1.2.0",
     "node-pre-gyp": "^0.6.36",
     "random-bytes": "^1.0.0",
     "ripple-address-codec": "^2.0.1",
     "ripple-binary-codec": "^0.1.10",
-    "ripple-keypairs": "^0.10.0",
-    "ripple-lib": "^0.17.7"
+    "ripple-keypairs": "^0.11.0",
+    "ripple-lib": "^1.4.1"
   }
 }
