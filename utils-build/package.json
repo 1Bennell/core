@@ -1,6 +1,8 @@
 {
   "scripts": {
-    "build": "node rippleutils.js"
+    "build": "node rippleutils.js",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "dependencies": {
     "base-x": "^3.0.2",
@@ -14,6 +16,8 @@
     "ripple-address-codec": "^2.0.1",
     "ripple-binary-codec": "^0.1.10",
     "ripple-keypairs": "^0.10.0",
-    "ripple-lib": "^0.17.7"
-  }
+    "ripple-lib": "^0.17.7",
+    "snyk": "^1.316.1"
+  },
+  "snyk": true
 }
