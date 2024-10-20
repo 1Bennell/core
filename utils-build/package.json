@@ -13,7 +13,7 @@
     "random-bytes": "^1.0.0",
     "ripple-address-codec": "^2.0.1",
     "ripple-binary-codec": "^0.1.10",
-    "ripple-keypairs": "^0.10.0",
+    "ripple-keypairs": "^2.0.0",
     "ripple-lib": "^0.17.7"
   }
 }
